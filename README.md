@@ -41,6 +41,8 @@ If you do want to solder through the vias, you will have to peel off the white s
 
 Once all the hardware parts were completed, it was time to move onto the software. For this, I used the QMK firmware. This project is very well documentated, but can still be intimidating at first. I have created a QMK firmware that semi-works for me, there are still issues that I need to sort out with it. Hopefully it will get you started with getting something functional.
 
+NOTE*** In my firmware code, I also have two pins set up to connect a Lenovo TrackPoint. You can utilize this for your own project, or remove it from the code.
+
 
 
 
